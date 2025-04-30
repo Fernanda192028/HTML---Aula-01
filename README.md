@@ -11,7 +11,7 @@
 <p> Permite construir e editar proficientemente um site</p>
 
 <h2>Como aprender HTML?</h2>
-<h3> Asista tutoriais </h3>
+<h3> Assista tutoriais </h3>
 <p>Assista a tutoriais online, como os do YouTube.Os canais que indico é o da Rafaella Ballerini e o Curso em Vídeo </p>
 <p>Use plataformas como o Codecademy, freeCodeCamp e W3Schools, que oferecem tutoriais interativos. </p>
 <br>
